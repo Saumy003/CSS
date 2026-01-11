@@ -1,0 +1,15 @@
+#x {
+    font-size: 25px;
+    line-height: 40px;
+    text-transform: capitalize;
+}
+
+#z {
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+#y {
+    text-transform: lowercase;
+    line-height: 50px;
+}

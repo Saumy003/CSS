@@ -2,10 +2,29 @@ h1 {
     text-align: center;
 }
 
-p {
+#myid1 {
     text-decoration: green underline;
 }
 
 h2 {
     text-decoration: blue wavy;
+}
+
+#id1 {
+    font-weight: 100;        
+}
+#id2 {
+    font-weight: 300;
+}
+
+#id3 {
+    font-weight: 500;
+}
+
+#id4 {
+    font-weight: 900;          
+}
+
+#myid2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
