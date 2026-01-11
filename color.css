@@ -1,0 +1,28 @@
+h1 {
+    color :darkcyan
+}
+
+p {
+    color : peru;
+}
+
+button {
+    color:crimson
+}
+
+h3 {
+    color:darkslategrey;
+}
+
+/* to change background color */
+
+body {
+    background-color: pink;
+}
+
+/* to change background color of button */
+
+button {
+    background-color: chocolate;
+}
+
