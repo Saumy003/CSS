@@ -1,0 +1,21 @@
+/* type 1 universal selector */
+* {
+    color:blueviolet;
+}
+
+
+/* type 2 element selector */
+h2 {
+    color:crimson;
+}
+
+/* type 3 id selector */
+
+#myid {
+    color :dimgrey;
+}
+
+/* type 4 id selector */
+.myclass {
+    color :gold;
+}
