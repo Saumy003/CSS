@@ -1,0 +1,27 @@
+/*Height in css*/
+
+#div1 {
+    height : 50px;
+    width : 100px;
+}
+
+/* width in css */
+
+#div2 {
+    width : 50px;
+    height : 50px;
+}
+
+/* border in css */
+#div3 {
+    border : 2px solid black;
+}
+
+#div4 {
+    width: 200px;
+    height: 50px;
+    background-color: blanchedalmond;
+    border-style: dashed;
+    border-color: darkmagenta;
+    text-align: center;
+}
