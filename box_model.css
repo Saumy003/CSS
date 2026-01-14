@@ -25,3 +25,29 @@
     border-color: darkmagenta;
     text-align: center;
 }
+
+/* concept of border radius */
+#radius {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+}
+/* concept of padding */
+#radius{
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
+
+/* concept of margins */
+#length{
+    background-color: pink;
+    height: 50px;
+    width: 50px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
