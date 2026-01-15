@@ -1,0 +1,23 @@
+.div {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    background-color: pink;
+    display: inline-block;
+}
+
+#div2 {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    background-color: pink;
+    display: inline-block;
+}
+
+/* alpha channel(opacity)*/
+
+#alpha {
+
+    background-color: rgba(255,125,89, 0.40);
+    display: inline-block;
+}
