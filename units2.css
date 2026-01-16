@@ -12,4 +12,6 @@
     margin-left: 10%;
     font-size: 2em;   /* font-size of box2 is double of font-size of box1.*/
     width: 5em;       /* width of box2 is 20*5 time =100times then box1 */
+    height: 5rem;     /* height of box2 become 16*5=80times now*/
 }
+
