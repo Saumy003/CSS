@@ -1,4 +1,7 @@
-div {
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
     background-image: url("C:\Users\saumy\OneDrive\Pictures\Samsung Gallery\1763173374938.jpg");
     background-size: cover;
 }
